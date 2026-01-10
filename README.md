@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="ru">
 <body>
     <h2>🚀 Telegram Mini App</h2>
     <button id="btn">Отправить данные боту</button>
